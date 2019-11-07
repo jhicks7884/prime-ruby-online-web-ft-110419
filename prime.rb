@@ -4,5 +4,5 @@ def prime?(number)
   count = 2
 
   return check
-end
+ end
 end
